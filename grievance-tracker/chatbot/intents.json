@@ -1,0 +1,64 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "How are you",
+        "Is anyone there?"
+      ],
+      "responses": [
+        "Hello! How can I assist you with your grievance today?",
+        "Hi there! What can I help you with regarding your complaint?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Thanks for your help"
+      ],
+      "responses": [
+        "Goodbye! If you have any more questions, feel free to ask.",
+        "Take care! Don't hesitate to return if you need further assistance."
+      ]
+    },
+    {
+      "tag": "file_grievance",
+      "patterns": [
+        "How do I file a grievance?",
+        "I want to make a complaint",
+        "What's the process for submitting a grievance?"
+      ],
+      "responses": [
+        "To file a grievance, please visit our online portal and fill out the grievance form. Alternatively, you can call our helpline at 1-800-123-4567."
+      ]
+    },
+    {
+      "tag": "check_status",
+      "patterns": [
+        "What's the status of my grievance?",
+        "How can I check my complaint status?",
+        "Any updates on my grievance?"
+      ],
+      "responses": [
+        "To check the status of your grievance, please log in to our online portal and go to the 'My Grievances' section. You'll find real-time updates there."
+      ]
+    },
+    {
+      "tag": "resolution_time",
+      "patterns": [
+        "How long does it take to resolve a grievance?",
+        "When will my complaint be addressed?",
+        "Grievance resolution timeframe"
+      ],
+      "responses": [
+        "The time to resolve a grievance varies depending on its complexity. Typically, we aim to resolve grievances within 14 business days."
+      ]
+    }
+  ]
+}
