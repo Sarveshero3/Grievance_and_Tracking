@@ -1,16 +1,16 @@
 # Grievance lodging and tracking
 
-##Overview
+#Overview
 
 The Grievance Lodging and Tracking system is designed to streamline the process of lodging and tracking grievances within an organization. This system enables users to submit, track, and manage grievances efficiently, ensuring timely resolution and transparency.
 
-##Features
+#Features
 
 Grievance Submission: Users can submit grievances with detailed descriptions and attachments.
 Grievance Tracking: Track the status and progress of submitted grievances.
 Light and dark mode according to user preference
 
-##Technologies
+#Technologies
 React (TSX)
 CSS
 Python
@@ -46,7 +46,7 @@ npm run dev
 Run the localhost file by Ctrl + Left Clicking the link 
 (example link : http://localhost:3001)
 
-Usage
+#Usage
 Submit a Grievance: Navigate to the grievance submission form and provide the necessary details.
 Track Grievance: Use the grievance tracking feature to check the status of your submissions.
 
